@@ -70,7 +70,7 @@ def process_logos(source_folder, dest_folder, target_size=(256, 256)):
             print(f"Unsupported file type for {filename}")
 
 if __name__ == "__main__":
-    source_folder = "logos"          # Folder containing the original logos
-    dest_folder = "logos_resized"      # Folder where resized copies will be saved
+    source_folder = "logos1"          # Folder containing the original logos
+    dest_folder = "logos_resized1"      # Folder where resized copies will be saved
     target_size = (256, 256)           # Target size (width, height)
     process_logos(source_folder, dest_folder, target_size)
