@@ -10,8 +10,8 @@ def delete_folder(folder):
 
 def main():
 	# if they are already downloaded, you can skip this step
-	# extract_logos(parquet="logos.snappy.parquet", folder="logos")
-	# prepare_logos("logos", "logos_resized")
+	extract_logos(parquet="logos.snappy.parquet", folder="logos")
+	prepare_logos("logos", "logos_resized")
 
 	image_paths = []
 	labels = dbscan(image_paths, 'logos_resized')
@@ -20,6 +20,7 @@ def main():
 	clusters = {}
 	output_base_folder = 'clustered_logos'
 	output_txt_file = 'duplicate_logos.txt'
+	delete_folder(output_base_folder)
 	os.makedirs(output_base_folder, exist_ok=True)
 
 	for label, image_path in zip(labels, image_paths):

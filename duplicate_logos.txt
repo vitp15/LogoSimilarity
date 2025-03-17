@@ -4825,305 +4825,308 @@ Cluster 1000:
  - logos_resized/rotarycoimbatoredowntown.org.png
 
 Cluster 1001:
- - logos_resized/heydudeshoes.es.png
+ - logos_resized/aireonepeel.ca.png
 
 Cluster 1002:
- - logos_resized/spitex-flawil-degersheim.ch.png
+ - logos_resized/heydudeshoes.es.png
 
 Cluster 1003:
- - logos_resized/bioderma-sk.com.png
+ - logos_resized/spitex-flawil-degersheim.ch.png
 
 Cluster 1004:
- - logos_resized/internationalsos.co.jp.png
+ - logos_resized/bioderma-sk.com.png
 
 Cluster 1005:
- - logos_resized/ymcachicago.org.png
+ - logos_resized/internationalsos.co.jp.png
 
 Cluster 1006:
- - logos_resized/foxinaboxgoldcoast.com.png
+ - logos_resized/ymcachicago.org.png
 
 Cluster 1007:
- - logos_resized/toyota.co.tz.png
+ - logos_resized/foxinaboxgoldcoast.com.png
 
 Cluster 1008:
- - logos_resized/affresco-decor.com.png
+ - logos_resized/toyota.co.tz.png
 
 Cluster 1009:
- - logos_resized/nissanmanufacturing.com.png
+ - logos_resized/affresco-decor.com.png
 
 Cluster 1010:
- - logos_resized/plameco-bonn.de.png
+ - logos_resized/nissanmanufacturing.com.png
 
 Cluster 1011:
- - logos_resized/zhcpa.cn.png
+ - logos_resized/plameco-bonn.de.png
 
 Cluster 1012:
- - logos_resized/nepaltrust.gov.np.png
+ - logos_resized/zhcpa.cn.png
 
 Cluster 1013:
- - logos_resized/dhirajsonsonline.com.png
+ - logos_resized/nepaltrust.gov.np.png
 
 Cluster 1014:
- - logos_resized/rubiomonocoatusa.com.png
+ - logos_resized/dhirajsonsonline.com.png
 
 Cluster 1015:
- - logos_resized/carglass.dk.png
+ - logos_resized/rubiomonocoatusa.com.png
 
 Cluster 1016:
- - logos_resized/daikin.com.mx.png
+ - logos_resized/carglass.dk.png
 
 Cluster 1017:
- - logos_resized/extremeadventureraces.com.png
+ - logos_resized/daikin.com.mx.png
 
 Cluster 1018:
- - logos_resized/engie-energia.pe.png
+ - logos_resized/extremeadventureraces.com.png
 
 Cluster 1019:
- - logos_resized/richs.co.uk.png
+ - logos_resized/engie-energia.pe.png
 
 Cluster 1020:
- - logos_resized/mcdonalds.com.sg.png
+ - logos_resized/richs.co.uk.png
 
 Cluster 1021:
- - logos_resized/bbraun.ru.png
+ - logos_resized/mcdonalds.com.sg.png
 
 Cluster 1022:
- - logos_resized/teknoware.ae.png
+ - logos_resized/bbraun.ru.png
 
 Cluster 1023:
- - logos_resized/dilmahtea.co.uk.png
+ - logos_resized/teknoware.ae.png
 
 Cluster 1024:
- - logos_resized/ebay.cn.png
+ - logos_resized/dilmahtea.co.uk.png
 
 Cluster 1025:
- - logos_resized/gjw-mv.de.png
+ - logos_resized/ebay.cn.png
 
 Cluster 1026:
- - logos_resized/petercem-sensors.com.png
+ - logos_resized/gjw-mv.de.png
 
 Cluster 1027:
- - logos_resized/kiamotors.com.co.png
+ - logos_resized/petercem-sensors.com.png
 
 Cluster 1028:
- - logos_resized/kern-liebers.it.png
+ - logos_resized/kiamotors.com.co.png
 
 Cluster 1029:
- - logos_resized/oilfieldequipments.us.png
+ - logos_resized/kern-liebers.it.png
 
 Cluster 1030:
- - logos_resized/gs1.dk.png
+ - logos_resized/oilfieldequipments.us.png
 
 Cluster 1031:
- - logos_resized/takab.nu.png
+ - logos_resized/gs1.dk.png
 
 Cluster 1032:
- - logos_resized/mateco.mx.png
+ - logos_resized/takab.nu.png
 
 Cluster 1033:
- - logos_resized/cbrain.com.png
+ - logos_resized/mateco.mx.png
 
 Cluster 1034:
- - logos_resized/indiancancersocietybangalore.org.png
+ - logos_resized/cbrain.com.png
 
 Cluster 1035:
- - logos_resized/nidek.com.png
+ - logos_resized/indiancancersocietybangalore.org.png
 
 Cluster 1036:
- - logos_resized/aspenpharma.es.png
+ - logos_resized/nidek.com.png
 
 Cluster 1037:
- - logos_resized/nikonschool.de.png
+ - logos_resized/aspenpharma.es.png
 
 Cluster 1038:
- - logos_resized/xwiftracingevents.be.png
+ - logos_resized/nikonschool.de.png
 
 Cluster 1039:
- - logos_resized/techtel.com.sg.png
+ - logos_resized/xwiftracingevents.be.png
 
 Cluster 1040:
- - logos_resized/vbh.be.png
+ - logos_resized/techtel.com.sg.png
 
 Cluster 1041:
- - logos_resized/skssweden.se.png
+ - logos_resized/vbh.be.png
 
 Cluster 1042:
- - logos_resized/hawaiifamilydentalcareers.com.png
+ - logos_resized/skssweden.se.png
 
 Cluster 1043:
- - logos_resized/savethechildren.es.png
+ - logos_resized/hawaiifamilydentalcareers.com.png
 
 Cluster 1044:
- - logos_resized/allbranded.de.png
+ - logos_resized/savethechildren.es.png
 
 Cluster 1045:
- - logos_resized/filatime.com.png
+ - logos_resized/allbranded.de.png
 
 Cluster 1046:
- - logos_resized/babgencel.de.png
+ - logos_resized/filatime.com.png
 
 Cluster 1047:
- - logos_resized/toyotaquezonavenue.com.ph.png
+ - logos_resized/babgencel.de.png
 
 Cluster 1048:
- - logos_resized/cimbbank.com.vn.png
+ - logos_resized/toyotaquezonavenue.com.ph.png
 
 Cluster 1049:
- - logos_resized/husse.hu.png
+ - logos_resized/cimbbank.com.vn.png
 
 Cluster 1050:
- - logos_resized/cuponesybeneficios.com.co.png
+ - logos_resized/husse.hu.png
 
 Cluster 1051:
- - logos_resized/gulfsverige.com.png
+ - logos_resized/cuponesybeneficios.com.co.png
 
 Cluster 1052:
- - logos_resized/warmupdeutschland.de.png
+ - logos_resized/gulfsverige.com.png
 
 Cluster 1053:
- - logos_resized/nelsonlabsbozeman.com.png
+ - logos_resized/warmupdeutschland.de.png
 
 Cluster 1054:
- - logos_resized/pkfuae.com.png
+ - logos_resized/nelsonlabsbozeman.com.png
 
 Cluster 1055:
- - logos_resized/ercagroup.com.tr.png
+ - logos_resized/pkfuae.com.png
 
 Cluster 1056:
- - logos_resized/spitex-buchs.ch.png
+ - logos_resized/ercagroup.com.tr.png
 
 Cluster 1057:
- - logos_resized/wheystore.vn.png
+ - logos_resized/spitex-buchs.ch.png
 
 Cluster 1058:
- - logos_resized/stawag-energie.de.png
+ - logos_resized/wheystore.vn.png
 
 Cluster 1059:
- - logos_resized/cvjm-muensingen.de.png
+ - logos_resized/stawag-energie.de.png
 
 Cluster 1060:
- - logos_resized/cyclecarriage.com.png
+ - logos_resized/cvjm-muensingen.de.png
 
 Cluster 1061:
- - logos_resized/regalsprings.com.mx.png
+ - logos_resized/cyclecarriage.com.png
 
 Cluster 1062:
- - logos_resized/trakm8.cz.png
+ - logos_resized/regalsprings.com.mx.png
 
 Cluster 1063:
- - logos_resized/johcm-ukconference.com.png
+ - logos_resized/trakm8.cz.png
 
 Cluster 1064:
- - logos_resized/miniso.ge.png
+ - logos_resized/johcm-ukconference.com.png
 
 Cluster 1065:
- - logos_resized/kewpie.com.sg.png
+ - logos_resized/miniso.ge.png
 
 Cluster 1066:
- - logos_resized/tectake.it.png
+ - logos_resized/kewpie.com.sg.png
 
 Cluster 1067:
- - logos_resized/plameco-hannover.de.png
+ - logos_resized/tectake.it.png
 
 Cluster 1068:
- - logos_resized/venturelightingme.com.png
+ - logos_resized/plameco-hannover.de.png
 
 Cluster 1069:
- - logos_resized/specialistnutrition.us.png
+ - logos_resized/venturelightingme.com.png
 
 Cluster 1070:
- - logos_resized/biolchim.com.br.png
+ - logos_resized/specialistnutrition.us.png
 
 Cluster 1071:
- - logos_resized/berlitz.com.py.png
+ - logos_resized/biolchim.com.br.png
 
 Cluster 1072:
- - logos_resized/whirlpool.com.sg.png
+ - logos_resized/berlitz.com.py.png
 
 Cluster 1073:
- - logos_resized/dfsk.tn.png
+ - logos_resized/whirlpool.com.sg.png
 
 Cluster 1074:
- - logos_resized/atalian.nl.png
+ - logos_resized/dfsk.tn.png
 
 Cluster 1075:
- - logos_resized/veka.pt.png
+ - logos_resized/atalian.nl.png
 
 Cluster 1076:
- - logos_resized/alten.ca.png
+ - logos_resized/veka.pt.png
 
 Cluster 1077:
- - logos_resized/isover.hu.png
+ - logos_resized/alten.ca.png
 
 Cluster 1078:
- - logos_resized/allianzlifebali.com.png
+ - logos_resized/isover.hu.png
 
 Cluster 1079:
- - logos_resized/tupperware.nl.png
+ - logos_resized/allianzlifebali.com.png
 
 Cluster 1080:
- - logos_resized/pkfcaribbean.com.png
+ - logos_resized/tupperware.nl.png
 
 Cluster 1081:
- - logos_resized/intersport.be.png
+ - logos_resized/pkfcaribbean.com.png
 
 Cluster 1082:
- - logos_resized/lidl-voyages.fr.png
+ - logos_resized/intersport.be.png
 
 Cluster 1083:
- - logos_resized/remaxcrystal.com.png
+ - logos_resized/lidl-voyages.fr.png
 
 Cluster 1084:
- - logos_resized/rotaryclubmedellin.org.png
+ - logos_resized/remaxcrystal.com.png
 
 Cluster 1085:
- - logos_resized/moorestoke.co.uk.png
+ - logos_resized/rotaryclubmedellin.org.png
 
 Cluster 1086:
- - logos_resized/katyawilliamsbridal.com.png
+ - logos_resized/moorestoke.co.uk.png
 
 Cluster 1087:
- - logos_resized/engie.pt.png
+ - logos_resized/katyawilliamsbridal.com.png
 
 Cluster 1088:
- - logos_resized/worldvision.org.nz.png
+ - logos_resized/engie.pt.png
 
 Cluster 1089:
- - logos_resized/abilways.be.png
+ - logos_resized/worldvision.org.nz.png
 
 Cluster 1090:
- - logos_resized/kuraray.us.com.png
+ - logos_resized/abilways.be.png
 
 Cluster 1091:
- - logos_resized/rotaryclubofessex.com.png
+ - logos_resized/kuraray.us.com.png
 
 Cluster 1092:
- - logos_resized/kalyanmachines.com.png
+ - logos_resized/rotaryclubofessex.com.png
 
 Cluster 1093:
- - logos_resized/affidea.ro.png
+ - logos_resized/kalyanmachines.com.png
 
 Cluster 1094:
- - logos_resized/tupperwarefiesta.com.png
+ - logos_resized/affidea.ro.png
 
 Cluster 1095:
- - logos_resized/berlitz-bahrain.com.png
+ - logos_resized/tupperwarefiesta.com.png
 
 Cluster 1096:
- - logos_resized/avis.com.do.png
+ - logos_resized/berlitz-bahrain.com.png
 
 Cluster 1097:
- - logos_resized/spg-motoren.de.png
+ - logos_resized/avis.com.do.png
 
 Cluster 1098:
- - logos_resized/mcdonalds.md.png
+ - logos_resized/spg-motoren.de.png
 
 Cluster 1099:
- - logos_resized/bmw-motorrad-euromotos-lyon.fr.png
+ - logos_resized/mcdonalds.md.png
 
 Cluster 1100:
- - logos_resized/sitechdo.com.mx.png
+ - logos_resized/bmw-motorrad-euromotos-lyon.fr.png
 
 Cluster 1101:
+ - logos_resized/sitechdo.com.mx.png
+
+Cluster 1102:
  - logos_resized/habitativ.org.png
 
