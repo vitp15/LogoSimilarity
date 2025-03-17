@@ -44,7 +44,7 @@ def resize_and_copy_image(src_path, dest_path, target_size=(256, 256)):
         print(f"Error saving {dest_path}: {e}")
         return False
 
-def process_logos(source_folder, dest_folder, target_size=(224, 224)):
+def prepare_logos(source_folder, dest_folder, target_size=(224, 224)):
     """
     Process all logo files from source_folder and save cropped and resized copies with transparent 
     backgrounds into dest_folder. For SVG files, convert them to PNG.
@@ -74,9 +74,3 @@ def process_logos(source_folder, dest_folder, target_size=(224, 224)):
                 print(f"Error processing SVG {filename}: {e}")
         else:
             print(f"Unsupported file type for {filename}")
-
-if __name__ == "__main__":
-    source_folder = "logos"          # Folder containing the original logos
-    dest_folder = "logos_resized"      # Folder where processed copies will be saved
-    target_size = (224, 224)           # Target size (width, height)
-    process_logos(source_folder, dest_folder, target_size)

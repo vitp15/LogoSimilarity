@@ -71,9 +71,8 @@ def process_url(url, folder, logos_files):
         return True  # already exists
     return bool(download_logo("http://" + url, folder))
 
-if __name__ == "__main__":
-    df = pd.read_parquet('logos.snappy.parquet').drop_duplicates(subset=['domain'])
-    folder = "logos1"
+def extract_logos(parquet="logos.snappy.parque", folder="logos"):
+    df = pd.read_parquet(parquet).drop_duplicates(subset=['domain'])
     os.makedirs(folder, exist_ok=True)
     
     # Get existing logo files (splitting on '.' for a simple check)
